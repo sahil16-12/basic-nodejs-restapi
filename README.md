@@ -4,7 +4,7 @@ This repository contains a simple REST API built using Node.js and Express. The 
 # Features
 CRUD Operations: Create, Read, Update, and Delete resources.</br>
 Express Framework: Fast and minimalist web framework for Node.js.</br>
-Modular Structure: Organized code with separate files for routes, controllers, and models.</br>
+Modular Structure: Organized code with separate files for routes, and models.</br>
 # Prerequisites
 Node.js </br>
 npm 
